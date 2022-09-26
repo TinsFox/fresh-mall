@@ -11,6 +11,7 @@ specifiers:
   next-images: ^1.8.4
   next-transpile-modules: ^9.0.0
   postcss: ^8.4.16
+  postcss-px-to-viewport: ^1.1.1
   react: 18.2.0
   react-dom: 18.2.0
   react-vant: ^3.0.0
@@ -23,6 +24,7 @@ dependencies:
   next-images: 1.8.4
   next-transpile-modules: 9.0.0
   postcss: 8.4.16
+  postcss-px-to-viewport: 1.1.1
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   react-vant: 3.0.0_biqbaboplfbrettd7655fr4n2y
@@ -1914,6 +1916,13 @@ packages:
     dependencies:
       postcss: 8.4.16
       postcss-selector-parser: 6.0.10
+    dev: false
+
+  /postcss-px-to-viewport/1.1.1:
+    resolution: {integrity: sha512-2x9oGnBms+e0cYtBJOZdlwrFg/mLR4P1g2IFu7jYKvnqnH/HLhoKyareW2Q/x4sg0BgklHlP1qeWo2oCyPm8FQ==}
+    dependencies:
+      object-assign: 4.1.1
+      postcss: 8.4.16
     dev: false
 
   /postcss-selector-parser/6.0.10:

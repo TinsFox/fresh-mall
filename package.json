@@ -14,6 +14,7 @@
     "next-images": "^1.8.4",
     "next-transpile-modules": "^9.0.0",
     "postcss": "^8.4.16",
+    "postcss-px-to-viewport": "^1.1.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-vant": "^3.0.0",

@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.12",
     "next": "12.3.1",
+    "next-images": "^1.8.4",
+    "next-transpile-modules": "^9.0.0",
+    "postcss": "^8.4.16",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-vant": "^3.0.0",
+    "tailwindcss": "^3.1.8"
   },
   "devDependencies": {
     "@types/node": "18.7.21",
